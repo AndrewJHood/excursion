@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+#page-header {
+    font-family: Verdana;
+    font-weight: normal;
+    margin-top: -15px;
+}
+ #page-header-text {
+     color: white;
+     font-size: 50px;
+ }
+ .download-link {
+     color: aquamarine;
+     font-size: 16px;
+     font-weight: 300;
+ }
+
+ .section-header {
+     font-family: verdana;
+     font-weight: 300;
+     font-size: 42px;
+     color:white;
+ }
+
+ #subtitle {
+     font-family: verdana;
+     font-size: 21px;
+     color: gray;
+ }
+
+ #image2 {
+     margin-top: 20px;
+ }
+
+ #copyright {
+     text-align:right;
+     color: gray;
+     font-size: 21px;
+ }
+
+ .download-link-2 {
+    font-family: verdana;
+    color: aquamarine;
+    font-size: 16px;
+    font-weight: 300;
+ }
