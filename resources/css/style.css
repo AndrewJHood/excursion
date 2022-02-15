@@ -8,10 +8,12 @@ body {
     font-weight: normal;
     margin-top: -15px;
 }
+
  #page-header-text {
      color: white;
      font-size: 50px;
  }
+
  .download-link {
      color: aquamarine;
      font-size: 16px;
@@ -35,8 +37,8 @@ body {
      margin-top: 20px;
  }
 
- #copyright {
-     text-align:right;
+ .copyright {
+     text-align: right;
      color: gray;
      font-size: 21px;
  }
